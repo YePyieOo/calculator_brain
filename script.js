@@ -46,3 +46,5 @@ function checkanswer() {
   document.getElementById("answerbox").value = "";
   quiz();
 }
+
+console.log("Ye Pyie Oo")
